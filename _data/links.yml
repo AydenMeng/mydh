@@ -1,124 +1,124 @@
 - categories:
-  - name: 购物
+  - name: 软件下载
     links:
-    - name: 淘宝
+    - name: 软件学堂
       style: orange
-      url: https://www.taobao.com/
+      url: http://www.xue51.com/
 
-    - name: 天猫
+    - name: Mac软件
       style: red
-      url: https://www.tmall.com/
+      url: https://mac-torrent-download.net/
 
-    - name: 京东
+    - name: 酷安网
       style: basic
-      url: https://www.jd.com/
+      url: https://www.coolapk.com/apk/
 
-    - name: Amazon
-      icon: amazon yellow
+    - name: AppSo限免
       style: basic
-      url: https://www.amazon.cn/
+      url: http://app.so/xianmian/
 
-    - name: Apple
+    - name: Chrome插件
       style: basic
       icon: apple grey
-      url: https://www.apple.com/
+      url: https://www.extfans.com/
 
-    - name: 当当
+    - name: MSDN
       style: pink
-      url: http://www.dangdang.com/
+      url: https://msdn.itellyou.cn/
 
-    - name: 严选
+    - name: 黑果小兵的部落阁
       style: basic
-      url: http://you.163.com/
+      url: https://blog.daliansky.net/
 
-    - name: UNIQLO
+    - name: 限免订阅
       style: red
-      url: http://www.uniqlo.cn/
+      url: https://3li3.com/
 
-    - name: MUJI
+    - name: 油猴脚本
       style: basic
-      url: http://www.muji.com.cn/
+      url: https://greasyfork.org/zh-CN/
 
-    - name: IKEA
+    - name: 盘搜
       style: yellow
-      url: https://www.ikea.cn/
+      url: http://www.pansou.com/
 
-    - name: Decathlon
+    - name: 微软激活(密码:dong)
       style: blue
-      url: https://www.decathlon.com.cn/
+      url: https://wwa.lanzous.com/b0fd6h27g
 
-    - name: 大疆
+    - name: 谷歌插件（推荐）
       style: black
-      url: https://www.dji.com/
+      url: https://www.crx4chrome.com/
 
-    - name: 小米
+    - name: Linux软件包下载
       style: orange
-      url: https://www.mi.com/
+      url: https://pkgs.org/
 
-    - name: 有品
-      style: brown
-      url: https://xiaomiyoupin.com/
+    - name: 清华大学开源软件
+      style: orange
+      url: https://mirrors.tuna.tsinghua.edu.cn/#
 
-  - name: 工具
+
+  - name: 金融学习
     links:
-    - name: '12306'
+    - name: 中国工商管理国际案例库
       icon: train red
       style: basic
-      url: https://www.12306.cn/
+      url: https://www.chinacases.org/index.jsp?lang=zh-CN
 
-    - name: 快递查询
+    - name: 中国人民大学商学院管理案例
       icon: truck olive
       style: basic
-      url: https://kuaidi100.com/
+      url: https://casecenter.rmbs.ruc.edu.cn/web/index.php
 
-    - name: 大众点评
+    - name: 梅花网
       icon: utensils orange
       style: basic
-      url: https://www.dianping.com/
+      url: https://www.meihua.info/info!0!1
 
-    - name: 网易邮箱
+    - name: 艾瑞网
       icon: envelope red
       style: basic
-      url: https://email.163.com/
+      url: https://report.iresearch.cn/
 
-    - name: QQ邮箱
-      icon: qq black
+    - name: 易观分析
+      icon: 
       style: basic
-      url: https://mail.qq.com/
+      url: https://www.analysys.cn/article/analysis
 
-    - name: 新浪邮箱
+    - name: Gartner
       icon: envelope red
       style: basic
-      url: https://mail.sina.com.cn/
+      url: https://www.gartner.com/en
 
-    - name: Gmail
+    - name: Ihsmarkit
       icon: google red
       style: basic
-      url: https://mail.google.com/
+      url: https://ihsmarkit.com/index.html
 
-    - name: 谷歌翻译
+    - name: 36氪
       icon: language blue
       style: basic
-      url: https://translate.google.com/
+      url: https://36kr.com/information/ccs/
 
-    - name: 百度翻译
+    - name: 钛媒体
       icon: paw blue
       style: basic
-      url: https://fanyi.baidu.com/
+      url: https://www.tmtpost.com/
 
-    - name: 维基百科
+    - name: 中国金融案例中心
       icon: wikipedia w black
       style: basic
-      url: https://www.wikipedia.org/
+      url: https://case.pbcsf.tsinghua.edu.cn/
 
-    - name: 彩云天气
+    - name: 界面新闻
       icon: cloud olive
       style: basic
-      url: http://caiyunapp.com/map
+      url: https://www.jiemian.com/
 
-    - name: 天眼查
+    - name: 广告门
       style: basic
-      url: https://www.tianyancha.com/
+      url: https://www.adquan.com/
 
     # - name: 稿定设计
     #   style: basic
@@ -128,6 +128,66 @@
     #   style: basic
     #   url: https://macwk.com/
 
+  - name: 计算机学习
+    links:
+    - name: Java学习教程
+      icon: train red
+      style: basic
+      url: https://how2j.cn?p=83323
+
+    - name: CSDN
+      icon: truck olive
+      style: basic
+      url: https://blog.csdn.net/Mxdon_on
+
+    - name: 博客园
+      icon: utensils orange
+      style: basic
+      url: https://www.cnblogs.com/mxdon/
+
+    - name: 廖雪峰的官方网站
+      icon: envelope red
+      style: basic
+      url: https://www.liaoxuefeng.com/
+
+    - name: 易百教程
+      icon: 
+      style: basic
+      url: https://www.yiibai.com/
+
+    - name: 一行代码
+      icon: envelope red
+      style: basic
+      url: https://www.alinecode.com/
+
+    - name: 电子器件词典
+      icon: google red
+      style: basic
+      url: https://www.alldatasheetcn.com/
+
+    - name: 36氪
+      icon: language blue
+      style: basic
+      url: https://36kr.com/information/ccs/
+
+    - name: 钛媒体
+      icon: paw blue
+      style: basic
+      url: https://www.tmtpost.com/
+
+    - name: 中国金融案例中心
+      icon: wikipedia w black
+      style: basic
+      url: https://case.pbcsf.tsinghua.edu.cn/
+
+    - name: 界面新闻
+      icon: cloud olive
+      style: basic
+      url: https://www.jiemian.com/
+
+    - name: 广告门
+      style: basic
+      url: https://www.adquan.com/
   - name: 社交
     links:
     - name: 微博
