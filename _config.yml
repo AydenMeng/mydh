@@ -9,7 +9,7 @@ alias_en: Ayden Meng's site
 alias_cn: 孟游导航
 description: A Website for my good friend
 keywords: 孟游先生, Ayden Meng, Mxdon
-url: https://#
+url: https://aydenmeng.github.io
 established_at: "2012-11-13T00:00+08:00"
 
 author: Ayden Meng
@@ -18,10 +18,10 @@ organization: TEELAB
 organization_url: https://teelab.net
 contact: contact[at]irockbunny[dot]com
 
-image: /images/logo.png
-logo: /images/logo.png
-logo_dark: /images/logo-dark.svg
-logo_white: /images/logo-white.svg
+image: /mydh/images/logo.png
+logo: /mydh/images/logo.png
+logo_dark: /mydh/images/logo-dark.svg
+logo_white: /mydh/images/logo-white.svg
 
 update_interval: 60000
 
