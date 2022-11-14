@@ -241,6 +241,38 @@
       style: black
       url: http://muchong.com/
 
+    - name: 国家哲学社会科学文献中心
+      style: black
+      url: http://www.ncpssd.org/index.aspx
+
+    - name: 上海科技创新资源数据中心
+      style: basic
+      url: http://www.sstir.cn/
+
+    - name: OALib
+      style: basic
+      url: http://www.oalib.com/
+
+    - name: 学术堂
+      style: black
+      url: http://www.lunwenstudy.com/
+
+    - name: 科塔学术导航
+      style: basic
+      url: https://site.sciping.com/
+
+    - name: 谷粉学术
+      style: basic
+      url: https://gfsoso.99lb.net/scholar.html
+
+    - name: Glgoo
+      style: basic
+      url: https://gg.xueshu5.com/
+
+    - name: PaperAsk
+      style: black
+      url: https://www.paperask.com/
+
   - name: 影视娱乐
     links:
     - name: Youtube
