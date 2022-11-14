@@ -1,3 +1,11 @@
+- id: bing
+  name: 必应
+  url: https://cn.bing.com/search?q={query}
+  shortcut:
+    icon: microsoft teal inverted
+    style: black
+    show: true
+
 - id: baidu
   name: 百度
   url: https://baidu.com/s?ie=utf-8&wd={query}
@@ -11,14 +19,6 @@
   url: https://google.com/search?q={query}
   shortcut:
     icon: google red inverted
-    style: black
-    show: true
-
-- id: bing
-  name: 必应
-  url: https://cn.bing.com/search?q={query}
-  shortcut:
-    icon: microsoft teal inverted
     style: black
     show: true
 
