@@ -596,10 +596,6 @@
       style: basic
       url: https://slidesgala.com/
 
-    - name: 校历
-      style: basic
-      url: http://www.bupt.edu.cn/content/content.php?p=6_10_80
-
   - name: 在线工具
     links:
     - name: 在线抠图
@@ -668,3 +664,21 @@
     # - name: 玩转论坛指南
     #   style: basic
     #   url: http://bbs.byr.cn/#!article/Talking/5852307
+  - name: 我的其他网站
+    links:
+    - name: github博客
+      style: basic
+      url: https://mxdongit.github.io
+
+    - name: CSDN博客
+      style: basic
+      url: https://blog.csdn.net/Mxdon_on
+
+    - name: 知乎
+      style: basic
+      url: https://www.zhihu.com/people/wu-ming-zhi-bei-37-65/posts
+
+    - name: 微信公众号(孟游先生的旅游日记)
+      style: basic
+      url: https://gitee.com/mxdon/img/raw/master/2020/640
+
